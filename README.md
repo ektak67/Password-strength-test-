@@ -1,4 +1,4 @@
-OWASP Password Strength Test
+Password Strength Test based on OWASP
 ============================
 `owasp-password-strength-test` is a password-strength tester based off of the
 [OWASP Guidelines for enforcing secure passwords][guidelines]. It is
